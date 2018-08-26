@@ -1,4 +1,5 @@
 # Joda-Time, with time zones provided by Android
+[![version]](#download)
 
 #### _NOTE: requires Kotlin!_
 
@@ -37,3 +38,6 @@ Remember to have the correct `android:name` inside the `application` tag of your
         android:name=".MyApplication"
         ...
 ```
+
+[version]:
+https://img.shields.io/badge/dynamic/xml.svg?label=version&style=flat-square&colorB=blue&query=%2F%2Fmetadata%2Fversioning%2Frelease&url=http%3A%2F%2Fcentral.maven.org%2Fmaven2%2Fme%2Feugeniomarletti%2Fjoda-time-android-no-tzdb%2Fmaven-metadata.xml "version"
