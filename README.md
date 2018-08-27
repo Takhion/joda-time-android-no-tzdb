@@ -9,7 +9,7 @@
 
 ```gradle
 dependencies {
-    compile("me.eugeniomarletti:joda-time-android-no-tzdb:$version")
+    implementation("me.eugeniomarletti:joda-time-android-no-tzdb:$version")
 }
 ```
 
